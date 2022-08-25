@@ -1,0 +1,21 @@
+/* styles.css */
+
+
+p {
+    color:red;
+}
+
+div {
+    color:royalblue;
+    background-color:blanchedalmond;
+}
+
+h1 {
+    color:orange;
+    font-size: 60px
+}
+
+img {
+    height: 250px;
+    width: auto;
+}
